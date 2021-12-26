@@ -12,7 +12,7 @@
         "description": "Additional hotkeys to do common things in Obsidian",
         "repo": "argenos/hotkeysplus-obsidian"
     },
-    {
+    {g
         "id": "obsidian-git",
         "name": "Obsidian Git",
         "author": "Denis Olehov",
